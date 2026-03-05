@@ -1,0 +1,9 @@
+{
+  "info": {
+    "name": "Book Barter API",
+    "_postman_id": "bb-collection-001",
+    "description": "Postman collection for testing Book Barter MERN project",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": []
+}

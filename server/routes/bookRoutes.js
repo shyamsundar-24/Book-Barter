@@ -27,4 +27,9 @@ router.delete("/:id", auth, async (req, res) => {
   res.json({ msg: "Deleted" });
 });
 
+router.get("/my", auth, async (req, res) => {
+  const books = await Book.find({ owner: req.user.id });
+  res.json(books);
+});
+
 module.exports = router;

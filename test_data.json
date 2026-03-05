@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "name": "John Doe",
+      "email": "john@example.com",
+      "password": "123456"
+    },
+    {
+      "name": "Alex Roy",
+      "email": "alex@example.com",
+      "password": "123456"
+    }
+  ],
+  "books": [
+    {
+      "title": "Atomic Habits",
+      "author": "James Clear"
+    },
+    {
+      "title": "Deep Work",
+      "author": "Cal Newport"
+    },
+    {
+      "title": "Harry Potter and the Goblet of Fire",
+      "author": "J.K. Rowling"
+    },
+    {
+      "title": "Think and Grow Rich",
+      "author": "Napoleon Hill"
+    }
+  ]
+}
